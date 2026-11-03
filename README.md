@@ -1,5 +1,7 @@
 # Forge workshops
 
+I attended the Fireworks AI Forge conference and research-agent reinforcement learning workshop on November 3, 2026. I ran the [research-agent RL notebook](research-agent-rl/workshop_train_research_agent.ipynb) end to end, completing four GRPO training updates on Kimi K3 and saving the baseline evaluation, post-training evaluation, and results in this fork.
+
 Hands-on workshops for training and using models with Fireworks. Each workshop lives in its own folder with its own
 notebooks, requirements and README, and needs only a Fireworks API key.
 
